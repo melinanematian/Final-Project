@@ -1,0 +1,4 @@
+﻿username,password,balance,role
+admin,admin123,0,admin
+sara,1234,10000000,customer
+zahra,1234,10000000,customer
